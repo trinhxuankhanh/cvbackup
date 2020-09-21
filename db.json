@@ -1,0 +1,199 @@
+{
+    "base": {
+      "img": "https://scontent-xsp1-2.xx.fbcdn.net/v/t1.15752-9/118631777_309191337034546_3008202438430692176_n.png?_nc_cat=107&_nc_sid=b96e70&_nc_ohc=c2eva1Ev1aoAX-Z6C90&_nc_ht=scontent-xsp1-2.xx&oh=e60955b0d47870aa411c8e89fc1898e7&oe=5F78C03A",
+      "name": "Trinh Xuan Khanh",
+      "position": "Front End",
+      "cv": "https://drive.google.com/file/d/1X1V0dyDd1vyI8-3K9Qwo1zcXQqjr8hdO/view?usp=sharing",
+      "contact": {
+        "github": {
+          "icon": "https://image.flaticon.com/icons/svg/733/733609.svg",
+          "link": "https://github.com/trinhxuankhanh",
+          "changeicon": "https://image.flaticon.com/icons/svg/733/733553.svg"
+        },
+        "facebook": {
+          "icon": "https://image.flaticon.com/icons/svg/1384/1384021.svg",
+          "link": "https://www.facebook.com/xuan.khanh.5203",
+          "changeicon": "https://image.flaticon.com/icons/svg/889/889102.svg"
+        },
+        "gmail": {
+          "icon": "https://image.flaticon.com/icons/svg/732/732026.svg",
+          "link": "xuaankhanhs@gmail.com",
+          "changeicon": "https://image.flaticon.com/icons/svg/732/732200.svg"
+        },
+        "phone": {
+          "icon": "https://image.flaticon.com/icons/svg/633/633544.svg",
+          "link": "0906430747",
+          "changeicon": "https://image.flaticon.com/icons/svg/893/893150.svg"
+        },
+        "discord": {
+          "icon": "https://www.flaticon.com/svg/static/icons/svg/2111/2111363.svg",
+          "link": "https://discord.gg/n6EmkDg",
+          "changeicon": "https://www.flaticon.com/svg/static/icons/svg/2111/2111370.svg"
+        }
+      }
+    },
+    "menu": {
+      "about": {
+        "icon": "https://image.flaticon.com/icons/svg/3135/3135768.svg",
+        "information": {
+          "name": "Trinh Xuan Khanh",
+          "age": 21,
+          "residence": "Da Nang City",
+          "freelance": true,
+          "address": "Quang Nam",
+          "description": "I am Xuan Khanh, a web front end from Da Nang. I have experience in web site design and building and customization, also I am good at WordPress. I love to talk with friend about anything."
+        },
+        "service": [
+          {
+            "icon": "https://www.flaticon.com/svg/static/icons/svg/2920/2920244.svg",
+            "name": "Web Development",
+            "title": "Modern and mobile-ready website that will help you reach all of your marketing."
+          },
+          {
+            "icon": "https://www.flaticon.com/svg/static/icons/svg/1973/1973941.svg",
+            "name": "Vlogger",
+            "title": "Record your daily activities."
+          },
+          {
+            "icon": "https://www.flaticon.com/svg/static/icons/svg/2920/2920329.svg",
+            "name": "Design UI/UX",
+            "title": "Design web and mobile apps, vivid, interesting, beautiful."
+          }
+        ]
+      },
+      "word": {
+        "icon": "https://image.flaticon.com/icons/svg/2554/2554267.svg",
+        "myword": [
+          [
+            {
+              "name": "Photo daily",
+              "link": "https://scontent.fdad1-1.fna.fbcdn.net/v/t1.0-9/84334836_3158499214375627_3141175038313496576_n.jpg?_nc_cat=100&_nc_sid=174925&_nc_ohc=5YnMGZb7L54AX-SB7eM&_nc_ht=scontent.fdad1-1.fna&oh=76a87a23981fd84f818fb227f1414662&oe=5F875537"
+            },
+            {
+              "name": "Photo travel",
+              "link": "https://scontent.fdad1-1.fna.fbcdn.net/v/t1.0-9/119088315_3291897737552710_84385774125041994_n.jpg?_nc_cat=103&_nc_sid=8bfeb9&_nc_ohc=crHR43493A8AX_qWC4X&_nc_ht=scontent.fdad1-1.fna&oh=3a4b071ac33d99d30741158ed53cedca&oe=5F889B2A"
+            }
+          ],
+          [
+            {
+              "name": "Vlog daily",
+              "img": "https://scontent.xx.fbcdn.net/v/t1.15752-9/119437841_356934422323432_8802131386494574237_n.jpg?_nc_cat=108&_nc_sid=b96e70&_nc_ohc=dxGx-fENJ84AX8JXMNg&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=12a13f09767e799e6e910792c9e0bd01&oe=5F886C0B",
+              "link": "https://www.youtube.com/embed/SK9KWhYOuGw"
+            },
+            {
+              "name": "Vlog travel",
+              "img": "https://scontent.xx.fbcdn.net/v/t1.15752-9/119474285_357857118669187_5571215587270188619_n.jpg?_nc_cat=108&_nc_sid=b96e70&_nc_ohc=AjpXy4Lm6LQAX-xSfOR&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=cdabeaab65d1db9d33f7d9d78a6ab424&oe=5F8832FE",
+              "link": "https://www.youtube.com/embed/sZdwmX2e0IE"
+            }
+          ],
+          [
+            {
+              "name": "Design Website",
+              "link": "https://scontent.fdad2-1.fna.fbcdn.net/v/t1.15752-9/119652842_770746297098885_1980925599188863710_n.jpg?_nc_cat=107&_nc_sid=b96e70&_nc_ohc=6SYHH2HYaDYAX-s4etT&_nc_ht=scontent.fdad2-1.fna&oh=0b8945d45b721a351e68ea0452c00a9b&oe=5F864BD8"
+            },
+            {
+              "name": "Design Website",
+              "link": "https://scontent.fdad2-1.fna.fbcdn.net/v/t1.15752-9/119558665_963601660812971_3743650112665034144_n.jpg?_nc_cat=111&_nc_sid=b96e70&_nc_ohc=fzObdJF2hRMAX9_suK0&_nc_ht=scontent.fdad2-1.fna&oh=8c7a58557cb92d63a802e4b2aa0cae47&oe=5F872DC1"
+            },
+            {
+              "name": "Design Website",
+              "link": "https://scontent.fdad1-1.fna.fbcdn.net/v/t1.15752-9/119215449_989680918172287_8592440632583423922_n.jpg?_nc_cat=105&_nc_sid=b96e70&_nc_ohc=r5wq0vi3q-IAX-NuRvZ&_nc_ht=scontent.fdad1-1.fna&oh=a6391c1cf0c573e734262aede2d2112f&oe=5F88D12A"
+            },
+            {
+              "name": "Design Website",
+              "link": "https://scontent.fdad1-1.fna.fbcdn.net/v/t1.15752-9/119556896_1238757999823969_668475492237781754_n.jpg?_nc_cat=103&_nc_sid=b96e70&_nc_ohc=uvNqtAqG53YAX8uoHHE&_nc_ht=scontent.fdad1-1.fna&oh=2873ace70ff899d7a7a333c14570684e&oe=5F88D6CE"
+            },
+            {
+              "name": "Design Application",
+              "link": "https://scontent.fdad2-1.fna.fbcdn.net/v/t1.15752-9/119164979_237875717665674_3395680799053689670_n.jpg?_nc_cat=107&_nc_sid=b96e70&_nc_ohc=2K3-ROh55kYAX_4HHla&_nc_ht=scontent.fdad2-1.fna&oh=aac06580eae91bdb2ba4219f04fa3351&oe=5F8809DF"
+            },
+            {
+              "name": "Design Application",
+              "link": "https://scontent.fdad2-1.fna.fbcdn.net/v/t1.15752-9/119211263_1111585122571594_6360235182843908074_n.jpg?_nc_cat=101&_nc_sid=b96e70&_nc_ohc=LDF9y27cUY4AX_yTtEi&_nc_ht=scontent.fdad2-1.fna&oh=9de8fc775b6e3a29da16d0f18a88b72c&oe=5F877A13"
+            }
+          ]
+        ]
+      },
+      "resume": {
+        "icon": "https://image.flaticon.com/icons/svg/3135/3135761.svg",
+        "resumedetail": {
+          "education": [
+            {
+              "time": "2017-Present",
+              "name": "The University of Da Nang - University of Science and Education",
+              "position": "Student",
+              "location": "459 Ton Duc Thang, Hoa Khanh Name, Lien Chieu, Da Nang",
+              "link": "https://ued.udn.vn/",
+              "description": "I am a senior student of the school. Here I have learned a lot of knowledge and my path is web programming."
+            }
+          ],
+          "experience": [
+            {
+              "time": "09/2019",
+              "name": "Dream Share",
+              "position": "Developer",
+              "location": "Da Nang City",
+              "description": "Use sass compiler and bootstrap framework for responsive web, the purpose is the first mobile device.",
+              "link": "https://github.com/trinhxuankhanh/practice-2-with-SCSS-and-Bootstrap-4"
+            },
+            {
+              "time": "11/2019",
+              "name": "Shop Food",
+              "position": "Developer",
+              "location": "Da Nang City",
+              "description": "Use framework Angular/Javascript to build a Single Page Application, the purpose is providing customers with clean, fresh fruits and vegetables",
+              "link": "https://github.com/trinhxuankhanh/food-shop-angular8-firebase"
+            },
+            {
+              "time": "01/2020",
+              "name": "Todo-app",
+              "position": "Developer",
+              "location": "Da Nang City",
+              "description": "Use Javascript to build a app to-do, the purpose understand and use es6, to note to-dos for the day",
+              "link": "https://github.com/trinhxuankhanh/Practice-Javascript"
+            }
+          ]
+        },
+        "myskill": {
+          "design": {
+            "icon": "https://www.flaticon.com/svg/static/icons/svg/2907/2907248.svg",
+            "web": 70,
+            "edit": 60,
+            "record": 60,
+            "app": 70
+          },
+          "coding": {
+            "icon": "https://www.flaticon.com/svg/static/icons/svg/922/922656.svg",
+            "wordpress": 75,
+            "react": 70,
+            "angular": 56,
+            "htmlcss": 88,
+            "sql": 70,
+            "node": 12
+          },
+          "languages": {
+            "icon": "https://www.flaticon.com/svg/static/icons/svg/3226/3226985.svg",
+            "english": 60
+          },
+          "knowledge": {
+            "icon": "https://www.flaticon.com/svg/static/icons/svg/2232/2232688.svg",
+            "skill": [
+              "Create logo design",
+              "Design for print",
+              "Convert design to html",
+              "Search engine",
+              "Amateur football",
+              "Love to swim",
+              "Video recording and editing",
+              "Badminton"
+            ]
+          }
+        }
+      },
+      "contact": {
+        "icon": "https://image.flaticon.com/icons/svg/2991/2991633.svg"
+      }
+    },
+    "send": {}
+  }
+  
